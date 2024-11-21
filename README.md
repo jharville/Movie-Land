@@ -1,8 +1,6 @@
-# React + Vite
+# MovieLand
+A simple movie search based on the omdb api. This was my first "follow-along" project I used to get my bearings.
+This project was crucial to my understanding of props in React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screen Shot 2024-11-21 at 3 56 55 PM](https://github.com/user-attachments/assets/515b45aa-055d-4656-bcb7-41585bf2b44e)
